@@ -90,7 +90,7 @@ Update the dataset path in the `spark.read.csv()` call before running.
 ├── NASA Exoplanet Archive.py    # Databricks source notebook
 ├── NASA Exoplanet Archive.html  # HTML export for visual reference
 ├── images/
-│   └── screenshot.png           # Databricks interface capture
+│   └── databricks_notebook_view.png           # Databricks interface capture
 └── README.md
 ```
 
