@@ -87,10 +87,11 @@ Update the dataset path in the `spark.read.csv()` call before running.
 ## Repository Structure
 
 ```
-├── NASA Exoplanet Archive.py    # Databricks source notebook
-├── NASA Exoplanet Archive.html  # HTML export for visual reference
+├── NASA Exoplanet Archive.py        # Databricks source notebook
+├── NASA Exoplanet Archive.html      # HTML export for visual reference
+├── LICENSE                          # MIT license
 ├── images/
-│   └── databricks_notebook_view.png           # Databricks interface capture
+│    └── databricks_notebook_view.png  # Databricks interface capture
 └── README.md
 ```
 
