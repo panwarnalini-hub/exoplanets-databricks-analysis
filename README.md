@@ -122,4 +122,4 @@ It remains a self-contained example of using modern data tools for research-styl
 
 ## License
 
-*Add your preferred license here*
+This project is licensed under the MIT License. See the LICENSE file for details.
